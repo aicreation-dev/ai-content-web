@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Ai Content - Monetize Your Content with AI</title>
+</head>
+<body style="font-family: Arial, sans-serif; margin: 0; padding: 0; background-color: #1a1a1a; color: #fff;">
+  <!-- Hero Section -->
+  <div style="background: linear-gradient(135deg, #007BFF, #00C6FF); padding: 60px 20px; text-align: center;">
+    <h1 style="font-size: 3rem; margin: 0; color: #fff;">Monetize Your Content with AI</h1>
+    <p style="font-size: 1.2rem; margin: 20px 0; color: #e0e0e0;">Use our next-gen AI tools to create, optimize, and earn money from your content.</p>
+    <a href="#vsl" style="display: inline-block; margin-top: 20px; padding: 15px 30px; font-size: 1.2rem; color: #007BFF; background-color: #fff; border-radius: 50px; text-decoration: none; font-weight: bold;">Watch the Video</a>
+  </div>
+
+  <!-- Video Sales Letter (VSL) Section -->
+  <div id="vsl" style="padding: 60px 20px; text-align: center;">
+    <h2 style="font-size: 2.5rem; margin: 0; color: #007BFF;">See How It Works</h2>
+    <p style="font-size: 1.1rem; margin: 20px 0; color: #e0e0e0;">Watch this short video to learn how you can start earning today.</p>
+    <div style="max-width: 800px; margin: 0 auto; background-color: #000; padding: 20px; border-radius: 10px;">
+      <!-- Replace the iframe with your actual VSL embed code -->
+      <iframe width="100%" height="400" src="https://www.youtube.com/embed/YOUR_VIDEO_ID" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="border-radius: 10px;"></iframe>
+    </div>
+  </div>
+
+  <!-- Features Section -->
+  <div style="background-color: #262626; padding: 60px 20px; text-align: center;">
+    <h2 style="font-size: 2.5rem; margin: 0; color: #007BFF;">Why Choose Ai Content?</h2>
+    <p style="font-size: 1.1rem; margin: 20px 0; color: #e0e0e0;">Here’s what makes us different:</p>
+    <div style="display: flex; justify-content: space-around; flex-wrap: wrap; margin-top: 40px;">
+      <div style="flex: 1; padding: 20px; background-color: #333; border-radius: 10px; margin: 10px; max-width: 300px;">
+        <h3 style="font-size: 1.5rem; color: #007BFF;">AI-Powered Creation</h3>
+        <p style="color: #e0e0e0;">Generate unique content with our proprietary AI tools.</p>
+      </div>
+      <div style="flex: 1; padding: 20px; background-color: #333; border-radius: 10px; margin: 10px; max-width: 300px;">
+        <h3 style="font-size: 1.5rem; color: #007BFF;">Monetization Strategies</h3>
+        <p style="color: #e0e0e0;">Learn the latest strategies to earn money from your content.</p>
+      </div>
+      <div style="flex: 1; padding: 20px; background-color: #333; border-radius: 10px; margin: 10px; max-width: 300px;">
+        <h3 style="font-size: 1.5rem; color: #007BFF;">Analytics & Insights</h3>
+        <p style="color: #e0e0e0;">Track performance and optimize your content for maximum earnings.</p>
+      </div>
+    </div>
+  </div>
+
+  <!-- Call-to-Action Section -->
+  <div style="background: linear-gradient(135deg, #007BFF, #00C6FF); padding: 60px 20px; text-align: center;">
+    <h2 style="font-size: 2.5rem; margin: 0; color: #fff;">Ready to Get Started?</h2>
+    <p style="font-size: 1.2rem; margin: 20px 0; color: #e0e0e0;">Join Ai Content today and start monetizing your content like never before.</p>
+    <a href="https://www.your-payhip-link.com" style="display: inline-block; margin-top: 20px; padding: 15px 30px; font-size: 1.2rem; color: #007BFF; background-color: #fff; border-radius: 50px; text-decoration: none; font-weight: bold;">Join Now</a>
+  </div>
+
+  <!-- Footer -->
+  <footer style="padding: 20px; background-color: #1a1a1a; color: #e0e0e0; text-align: center;">
+    <p>&copy; 2023 Ai Content. All rights reserved.</p>
+  </footer>
+</body>
+</html>
